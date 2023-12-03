@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Why PWS?
+# PWS Features and Capabilities
 
 Welcome to Pacil Web Service, your trusted source to deploy your web applications.
 
