@@ -26,8 +26,9 @@ Our main goal is to support the deployment for mandatory courses that require a 
 
 #### The Limitations
 The limitation for what can be deployed are:
-1. Must be a web application
-2. Only require one container (thus does not support microservices)
+1. Must be a web application.
+2. Only one framework in the application can be supported.
+3. Only require one container (does not support microservices).
 
 ### But we already have DOKKU?
 At the time of creating, DOKKU still has multiple issues:
@@ -42,7 +43,7 @@ At the time of creating, DOKKU still has multiple issues:
 Some items has been fixed eversince, but we aim to create an improvement and thus we keen on testing and developing PWS so it can be placed permanently in Fasilkom, supporting future deployments.
 
 ## How does PWS work?
-You can view how PWS work by viewing the documentation at [PWS Features](/docs/background/pws-features)
+You can view how PWS work and its capabilities by viewing the documentation at [PWS Features and Capabilities](/docs/background/pws-features).
 
 ## How do I use PWS?
 You can start using PWS by checking out the [Getting Started Tutorial](/docs/getting-started/prerequisite) by reading the prerequisites first.
