@@ -25,3 +25,5 @@ PWS is built on Rust, Docker, Tailwind, and black magic. All of the components r
 All component works in synergy, from self-made git server to docker serving deployment controlled by nix, PWS can automatically receive your git push and builds it, providing its own domain, and serving you the web application, ready to be used.
 
 ![PWS Flow](./img/flow.png)
+
+You can view the full detail later after our paper has been published!
