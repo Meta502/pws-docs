@@ -89,7 +89,7 @@ const config: Config = {
             },
             {
               label: 'PWS Website',
-              to: '/https://stndar.dev',
+              to: 'https://stndar.dev',
             },
           ],
         },
