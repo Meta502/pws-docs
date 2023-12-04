@@ -20,7 +20,7 @@ Learn how to create your first project in PWS.
 4. Copy the project token as it will not be shown later.
    
     :::danger DO NOT LOSE THE PROJECT TOKEN
-    The Token is required to push and deploy your service, make sure you've saved the token to continue to the next step.
+    The credential below is required to push and deploy your service, make sure you've saved the token to continue to the next step, as you will be asked later.
     :::
     ![Token](./img/token.png)
 

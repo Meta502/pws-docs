@@ -71,7 +71,7 @@ const config: Config = {
           label: 'Tutorial',
         },
         {
-          href: '#',
+          href: 'https://stndar.dev',
           label: 'PWS Website',
           position: 'right',
         },
@@ -89,7 +89,7 @@ const config: Config = {
             },
             {
               label: 'PWS Website',
-              to: '/#',
+              to: '/https://stndar.dev',
             },
           ],
         },

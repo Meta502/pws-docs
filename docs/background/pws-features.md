@@ -9,11 +9,11 @@ Discover what are the capabilities of PWS and how it works.
 ## What Makes PWS Better?
 Compared to previous installment, PWS improves several aspect that became the pain point for both teaching assistant and students.
 
-1. Easy to use
+1. **Easy to use**    
    Configure everything through an intuitive UI, reducing the amount of terminal and CLI-based display for building and deploying applications.
-2. Control at your hand
+2. **Control at your hand**    
    No longer are you being held back by middleman. You can now create project, deploy, and configure yourself through PWS, without being dependent with anyone.
-3. Scalable performance
+3. **Scalable performance**    
    Building application will no longer kill the server. PWS can scale according to hardware performance, enabling mass deployment especially near deadlines.
 
 ## How does PWS Work?

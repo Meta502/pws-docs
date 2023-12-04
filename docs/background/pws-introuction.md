@@ -32,12 +32,12 @@ The limitation for what can be deployed are:
 
 ### But we already have DOKKU?
 At the time of creating, DOKKU still has multiple issues:
-1. Scalability
+1. **Scalability**    
    DOKKU has difficulty building and maintaining performance when it has to support large scale deployment, especially during individual assignment and nearing the deadline. This leads to long build time and performance issue.
    ![DOKKU Performance During 29 Oct Deadline](./img/dokku-dl.png)
-2. Ease of Use
+2. **Ease of Use**    
    From our observation, configuring deployment for DOKKU takes quite the effort, from manually submitting form to create deployment keys, adding many configuration files, and more just to deploy. We aim to shorten this process and create something as close to Heroku as possible.
-3. Self-Service Capabilities
+3. **Self-Service Capabilities**    
    We also observe that a lot of capabilities are limited from student side. Whenever students want to do something, such as deploying or deleting database, they have to request first to admins, which slows down progress. We wanted to remove this middleman, and provide students the capability needed to successfully deploy their application without being dependent on other factors.
 
 Some items has been fixed eversince, but we aim to create an improvement and thus we keen on testing and developing PWS so it can be placed permanently in Fasilkom, supporting future deployments.
