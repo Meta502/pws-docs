@@ -71,7 +71,7 @@ const config: Config = {
           label: 'Tutorial',
         },
         {
-          href: 'https://stndar.dev',
+          href: 'https://pbp.cs.ui.ac.id',
           label: 'PWS Website',
           position: 'right',
         },
@@ -89,7 +89,7 @@ const config: Config = {
             },
             {
               label: 'PWS Website',
-              to: 'https://stndar.dev',
+              to: 'https://pbp.cs.ui.ac.id',
             },
           ],
         },

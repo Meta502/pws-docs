@@ -8,7 +8,7 @@ PWS uses an account system to keep track of your applications. Note that we uses
 ## Registering Account
 You will need to register your account first to use the service
 
-1. Go to the [Registration Page](https://stndar.dev/register).
+1. Go to the [Registration Page](https://pbp.cs.ui.ac.id/register).
 2. Enter the username, your full name, and your password in the following field.    
     
     :::warning You must use your UI Credentials
@@ -22,7 +22,7 @@ You will need to register your account first to use the service
 ## Logging In to Your Account
 If you're logged out, you can login with the account you've created.
 
-1. Go to the [Login Page](https://stndar.dev/login).
+1. Go to the [Login Page](https://pbp.cs.ui.ac.id/login).
 2. Enter the username and password that you use for registration.
    _Note that we use SSO login for our service, so you can input your UI username and password._     
    
@@ -30,4 +30,4 @@ If you're logged out, you can login with the account you've created.
 3. You will be automatically redirected to the dashboard once logged in.
 
 ## Log Out from Your Account
-You can log out anytime by entering [https://stndar.dev/logout](https://stndar.dev/logout) into your URL.
+You can log out anytime by entering [https://pbp.cs.ui.ac.id/logout](https://pbp.cs.ui.ac.id/logout) into your URL.

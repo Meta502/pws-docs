@@ -16,7 +16,7 @@ You can read documentation regarding CORS in the [MDN Web](https://developer.moz
 1. Go to your Django project folder.
 2. In your project's `settings.py`, ensure that you have the following line.    
     ```
-    CSRF_TRUSTED_ORIGINS = ["https://*.stndar.dev"] 
+    CSRF_TRUSTED_ORIGINS = ["https://*.cs.ui.ac.id"] 
     ```
 3. Save and commit the changes.
     ```git add .

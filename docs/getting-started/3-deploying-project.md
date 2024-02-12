@@ -13,13 +13,13 @@ As this is an experimental service, we recommend you to clone your project to a 
 
 ## Pushing Changes
 
-1. Go to the project page at `https://stndar.dev/{{ USERNAME }}/{{ PROJECT NAME }}`, or accessing the project you want to deploy from the dashboard.    
+1. Go to the project page at `https://pbp.cs.ui.ac.id/{{ USERNAME }}/{{ PROJECT NAME }}`, or accessing the project you want to deploy from the dashboard.    
        
    ![Projects](./img/projectlist.png)
    ![Projects](./img/projects.png)
 2. Copy the command to push. If you want to write it yourself, the format for the command is as follows: 
    ```
-    git remote add pws https://stndar.dev/{{ USERNAME }}/{{ PROJECT NAME }}
+    git remote add pws https://pbp.cs.ui.ac.id/{{ USERNAME }}/{{ PROJECT NAME }}
     git branch -M master
     git push pws master
     ```
@@ -41,7 +41,7 @@ As this is an experimental service, we recommend you to clone your project to a 
        
    ![Projects](./img/build.png)
 
-7. Once the status is `Successful`, you can view the deployed application by clicking `Open` or accessing it through the URL format `https://{{ USERNAME }}-{{ PROJECT NAME }}.stndar.dev/`. Make sure to replace `.` with `-`. For example, if your username is `john.doe` and the project is `booker`, then the URL is `https://john-doe-booker.stndar.dev/`.
+7. Once the status is `Successful`, you can view the deployed application by clicking `Open` or accessing it through the URL format `https://{{ USERNAME }}-{{ PROJECT NAME }}.pbp.cs.ui.ac.id/`. Make sure to replace `.` with `-`. For example, if your username is `john.doe` and the project is `booker`, then the URL is `https://john-doe-booker.pbp.cs.ui.ac.id/`.
     
        
    ![Projects](./img/open.png)

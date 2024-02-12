@@ -6,7 +6,7 @@ sidebar_position: 3
 Learn how to create your first project in PWS.
 
 ## Creating a Project
-1. Go to the [Dashboard Page](https://stndar.dev/dashboard). Make sure you are logged in.
+1. Go to the [Dashboard Page](https://pbp.cs.ui.ac.id/dashboard). Make sure you are logged in.
 2. Click `New Project`.    
    
    ![New Project](./img/create-project.png)
